@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ebcd5d-ca4a-4b62-85db-117e6bdae81a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/index/about/about-firts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/index/about/about-second.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/index/about/about__third.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/index/footer/bi_geo-alt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/index/footer/ph_phone-call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/advantages/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/advantages/video.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/header/Group7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/header/Group7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero/hero-bg-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/hero/hero-bg-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/hero/image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/hero/image2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero/image3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/hero/image3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/materials/maki_cross.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/materials/maki_cross.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/materials/old-wood-grain-background 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/materials/old-wood-grain-background 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/materials/pale-oak-wood-texture-design-backgroun1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/materials/pale-oak-wood-texture-design-backgroun1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/materials/twemoji_check-mark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/materials/twemoji_check-mark.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/materials/wood-texture-design-decoration1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/materials/wood-texture-design-decoration1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/our-work/Frame .png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/our-work/Frame .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/our-work/iconoir_arrow-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/our-work/iconoir_arrow-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/our-work/our-work-kitchen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index/our-work/our-work-kitchen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +40,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.14.2",
+    "javascript.nodejs.core.library.typings.version": "16.11.47",
     "last_opened_file_path": "C:/Users/ustin/WebstormProjects/wood-product/src/styles",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -84,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660223835011</updated>
       <workItem from="1660223837403" duration="507000" />
-      <workItem from="1660224376226" duration="6336000" />
+      <workItem from="1660224376226" duration="7056000" />
     </task>
     <servers />
   </component>
