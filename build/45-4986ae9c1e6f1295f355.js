@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwood_product=self.webpackChunkwood_product||[]).push([[45],{45:(o,u,c)=>{c.r(u)}}]);
