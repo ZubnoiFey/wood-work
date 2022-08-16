@@ -1,1 +1,16 @@
-.button
+.button {
+  background-color: #728BAD;
+  border: none;
+  border-radius: 42px;
+  padding-top: 10px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.button--text-white {
+  color: #ffffffff;
+}

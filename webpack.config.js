@@ -39,7 +39,12 @@ module.exports = {
             filename: '[name]-[fullhash].css',
         }),
         new HtmlWebpackPlugin({
+            filename: "index.html",
             template: './src/index.html'
+        }),
+        new HtmlWebpackPlugin({
+            filename: "gallery.html",
+            template: './src/gallery.html'
         })
     ],
     devServer: {
