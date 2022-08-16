@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ebcd5d-ca4a-4b62-85db-117e6bdae81a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero-page/materials.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/45-50605167573981f6fd32.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/45-50605167573981f6fd32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main-50605167573981f6fd32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/materials.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/materials.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +72,7 @@
       <workItem from="1660224376226" duration="8441000" />
       <workItem from="1660287871405" duration="876000" />
       <workItem from="1660294978337" duration="87000" />
-      <workItem from="1660666937363" duration="3736000" />
+      <workItem from="1660666937363" duration="4745000" />
     </task>
     <servers />
   </component>
