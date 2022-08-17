@@ -1,0 +1,29 @@
+.hero-footer {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.footer__container {
+  @include flex-center;
+}
+
+.footer__logo {
+  display: flex;
+  gap: 5px;
+}
+
+.footer--bottom {
+  margin-top: 60px;
+}
+
+.footer__phone {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.footer__geo {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}

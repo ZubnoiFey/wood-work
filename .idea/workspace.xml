@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ebcd5d-ca4a-4b62-85db-117e6bdae81a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/index/contact/contact-image-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero-page/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero-page/hero-contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/hero-about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/hero-about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +76,7 @@
       <workItem from="1660666937363" duration="4824000" />
       <workItem from="1660671835398" duration="1094000" />
       <workItem from="1660679990354" duration="485000" />
-      <workItem from="1660749864340" duration="5519000" />
+      <workItem from="1660749864340" duration="6129000" />
     </task>
     <servers />
   </component>
