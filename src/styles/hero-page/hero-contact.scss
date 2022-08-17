@@ -1,0 +1,53 @@
+.contact {
+  padding-top: 230px;
+  padding-bottom: 120px;
+  background-image: url("/src/images/index/contact/contact-image-bg.png");
+  background-repeat: no-repeat;
+  background-position: right bottom -250px;
+}
+
+
+.contact__heading {
+  text-align: end;
+  margin-bottom: 45px;
+}
+
+.contact__form-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 130px;
+}
+
+.contact__form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 600px;
+}
+
+.contact__label {
+  border: 1px solid #ffffff;
+  border-radius: 42px;
+  overflow: hidden;
+}
+
+.contact__input {
+  background-color: rgba(34, 32, 33, 1);
+  border: none;
+  overflow: hidden;
+  color: #D9D9D9;
+  padding: 20px;
+}
+
+.contact__textarea {
+  background-color: rgba(34, 32, 33, 1);
+  border: none;
+  overflow: hidden;
+  color: #D9D9D9;
+  resize: none;
+  padding: 20px;
+}
+
+.contact__text {
+  width: 550px;
+}
