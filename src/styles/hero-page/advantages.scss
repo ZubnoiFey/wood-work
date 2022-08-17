@@ -1,0 +1,31 @@
+.advantages {
+  padding-top: 140px;
+  padding-bottom: 300px;
+}
+
+.advantages__wrapper {
+  @include flex-center;
+  margin-bottom: 120px;
+}
+
+.advantages__list {
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+}
+
+.advantages__item {
+  width: 400px;
+}
+
+.advantages__text {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.advantages__button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
