@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ebcd5d-ca4a-4b62-85db-117e6bdae81a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <workItem from="1660671835398" duration="1094000" />
       <workItem from="1660679990354" duration="485000" />
       <workItem from="1660749864340" duration="6300000" />
-      <workItem from="1660805468988" duration="12029000" />
+      <workItem from="1660805468988" duration="12409000" />
     </task>
     <servers />
   </component>
