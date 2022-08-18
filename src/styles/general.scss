@@ -83,6 +83,7 @@ body {
 
 .header__logo {
   display: flex;
+  align-items: center;
   gap: 6px;
 }
 
@@ -126,6 +127,14 @@ body {
 }
 
 .text--beige {
-  color:  rgba(255, 219, 187, 1);
+  color: rgba(255, 219, 187, 1);
+}
 
+.brown-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1E0C06;
+  border-bottom-right-radius: 79px;
+  border-bottom-left-radius: 79px;
 }
