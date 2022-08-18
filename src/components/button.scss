@@ -9,6 +9,13 @@
   font-size: 30px;
   font-weight: 700;
   line-height: 1.2;
+  @include media-tablet {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    font-size: 15px;
+  }
 }
 
 .button--text-white {

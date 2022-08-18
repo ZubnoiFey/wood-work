@@ -4,6 +4,10 @@
   background-image: url("/src/images/index/contact/contact-image-bg.png");
   background-repeat: no-repeat;
   background-position: right bottom -250px;
+  @include media-tablet {
+    padding-top: 77px;
+    padding-bottom: 95px;
+  }
 }
 
 
@@ -16,6 +20,12 @@
   display: flex;
   justify-content: space-between;
   gap: 130px;
+  @include media-tablet {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    @include flex-center;
+  }
 }
 
 .contact__form {
@@ -23,6 +33,9 @@
   flex-direction: column;
   gap: 25px;
   width: 600px;
+  @include media-mobile {
+    width: 99%;
+  }
 }
 
 .contact__label {
@@ -50,4 +63,7 @@
 
 .contact__text {
   width: 550px;
+  @include media-mobile {
+    width: 99%;
+  }
 }

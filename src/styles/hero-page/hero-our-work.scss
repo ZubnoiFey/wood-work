@@ -1,18 +1,33 @@
 .our-work {
   padding-top: 130px;
   padding-bottom: 140px;
+  @include media-tablet{
+    padding-top: 90px;
+    padding-bottom: 80px;
+  }
 }
 
 .our-work__heading {
   margin-bottom: 120px;
+  @include media-tablet{
+    margin-bottom: 45px;
+  }
 }
 
 .our-work__gallery {
   @include flex-center;
   gap: 20px;
+
 }
 
 .our-work__arrow {
+  width: 100%;
+  @include media-tablet{
+    width: 10%;
+  }
+}
+
+.our-work__image{
   width: 100%;
 }
 

@@ -5,6 +5,11 @@
 
 .footer__container {
   @include flex-center;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
 }
 
 .footer__logo {

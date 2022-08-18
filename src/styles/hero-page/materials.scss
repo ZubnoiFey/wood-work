@@ -1,16 +1,37 @@
 .materials {
   padding-top: 420px;
   padding-bottom: 130px;
+  @include media-tablet{
+    padding-top: 75px;
+    padding-bottom: 30px;
+  }
 }
 
 .materials__heading {
   width: 750px;
   margin-bottom: 125px;
+  @include media-tablet{
+    margin-bottom: 80px;
+  }
+  @include media-mobile {
+    @include flex-center;
+    flex-wrap: wrap;
+    width: 80%;
+    text-align: center;
+  }
 }
 
 .materials__list {
   display: flex;
   justify-content: space-between;
+  @include media-mobile{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+  }
 }
 
 .materials__item {
