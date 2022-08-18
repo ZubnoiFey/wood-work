@@ -2,7 +2,41 @@
   padding-top: 150px;
 }
 
+
+
 .our-work__gallery-wrapper {
   @include flex-center;
+  @include media-tablet {
+    width: 90%;
+  }
+  @include media-mobile {
+    width: 100%;
+  }
 }
 
+
+
+.our-work__gallery {
+  @include flex-center;
+  gap: 20px;
+}
+
+.our-work__arrow {
+  width: 100%;
+  @include media-tablet{
+    width: 10%;
+  }
+  @include media-mobile{
+    width: 10%;
+  }
+}
+
+.our-work__galery-image{
+  width: 100%;
+  @include media-tablet {
+    width: 100%;
+  }
+  @include media-mobile{
+    width: 100%;
+  }
+}
